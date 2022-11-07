@@ -1,0 +1,38 @@
+ 
+#input-search {
+    width: 80%;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    width: 100vw;
+}
+form {
+    width: 500px;
+}
+
+button {
+    margin-left: 10px;
+    height: 50px;
+    border-bottom: 5px;
+    bottom: 5px;
+}
+
+img{
+    width: 300px;
+    border-radius: 5px;
+}
+
+.movie{
+    border: 2px solid #9c27b0;
+    margin: 20px;
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+}
+.nowPlaying {
+    display: flex;
+    flex-wrap: wrap;
+}
